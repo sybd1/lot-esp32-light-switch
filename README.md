@@ -12,9 +12,9 @@ ESP32와 SG90 서보로 벽 형광등 로커 스위치를 누른다. 교류 배�
 
 <video src="result-video.mp4" controls playsinline width="480" poster="result-img.jpg"></video>
 
-[결과 영상 파일][![시연 영상 재생](./product-name-imgs/demo-thumbnail.png)](./result-video.mp4)
+[결과 영상 파일]
 
-[▶ 시연 영상 보기](./result-video.mp4)
+[▶ 시연 영상 보기]([./result-video.mp4](https://github.com/user-attachments/assets/7d9378ce-6c3c-4b20-ab0b-0a4344d75468))
 
 ## 하드웨어
 
